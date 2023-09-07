@@ -1,1 +1,2 @@
-# BaekJoon-C
+# BaekJoon
+Coding with C
