@@ -1,6 +1,4 @@
 // 실패 - 시간초과
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -127,5 +125,4 @@ int main(void){
     
     int result = greedy();
     printf("%d",result);
-    
 }
