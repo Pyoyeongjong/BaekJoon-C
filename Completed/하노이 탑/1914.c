@@ -20,7 +20,7 @@ void power(int x, int n, char arr[]){
             }
         }
     }
-    arr[0]= arr[0]-1;
+    arr[0] -= 1;
     for(int i=last;i>=0;i--){
         printf("%d",arr[i]);
     }
