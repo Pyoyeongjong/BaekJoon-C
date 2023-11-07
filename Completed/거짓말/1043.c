@@ -74,11 +74,11 @@ int main(void){
             }
         }
     }
-
-    int tt=50;
+    int tt=1;
     while(tt--){
         for(int i=1;i<=M;i++){
             union_party(i, N, M);
+            printparent(N);
         }
     }
     
